@@ -1,4 +1,5 @@
-const SITE = {
+{
+  const SITE = {
   "name": "Shivam Bhardwaj",
   "suffix": "PhD",
   "title": "Functional Genomics Scientist · Operations & Program Manager",
