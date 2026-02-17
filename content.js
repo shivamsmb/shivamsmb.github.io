@@ -1,4 +1,8 @@
+{const SITE = 
 {
+  "name": "Shivam Bhardwaj",
+  "suffix": "PhD",
+
   "name": "Shivam Bhardwaj",
   "suffix": "PhD",
   "title": "Evolutionary Biology · Genomics and Bioimaging · Lab Operations & Program Manager",
