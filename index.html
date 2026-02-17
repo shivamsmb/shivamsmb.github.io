@@ -428,7 +428,7 @@ function render() {
     <div class="hbio">${S.bio}</div>
     <div class="hauth">📍 ${S.location} &nbsp;|&nbsp; ${S.workAuth}</div>
     <div class="hlinks"><a href="#experience" class="hl p">View Experience</a><a href="#publications" class="hl o">Publications</a>${S.links.scholar?`<a href="${S.links.scholar}" class="hl o" target="_blank">Google Scholar ↗</a>`:``}${S.links.linkedin?`<a href="${S.links.linkedin}" class="hl o" target="_blank">LinkedIn ↗</a>`:``}${cv}</div>
-  </div><div class="hp"><div class="hpf">${photo}</div><div class="haff">${S.email}<br/>${S.phone}</div></div></header>
+  </div><div class="hp"><div class="hpf">${photo}</div><div class="haff">${S.email}<br/></div></div></header>
 
   <div class="dv"><hr/></div>
   <section class="sec" id="experience"><p class="sl rv">Professional Experience</p><h2 class="st rv">Career Journey</h2><p class="sd rv">10+ years leading scientific operations, research programs, and cross-functional teams.</p>
@@ -471,7 +471,7 @@ function render() {
   <div class="dv"><hr/></div>
   <section class="sec" id="contact"><div class="cg"><div class="rv"><p class="sl">Get In Touch</p><h2 class="st">Let's Connect</h2><p style="color:var(--i3);font-size:.91rem;line-height:1.8;margin:16px 0 28px">Open to collaborations, industry roles, and interesting conversations. ${S.workAuth}.</p>
   <div class="cls">
-  ${[{i:'✉️',l:'Email',v:S.email,h:'mailto:'+S.email},S.email2?{i:'🎓',l:'Academic',v:S.email2,h:'mailto:'+S.email2}:0,{i:'📞',l:'Phone',v:S.phone,h:'tel:'+S.phone.replace(/\\s/g,'')},S.links.scholar?{i:'📚',l:'Google Scholar',v:'Publications',h:S.links.scholar}:0,S.links.orcid?{i:'🆔',l:'ORCID',v:'0000-0001-5030-7826',h:S.links.orcid}:0,S.links.linkedin?{i:'💼',l:'LinkedIn',v:'shivamb1',h:S.links.linkedin}:0,S.links.github?{i:'🧑‍💻',l:'GitHub',v:'shivamsmb',h:S.links.github}:0].filter(Boolean).map(c=>`<a href="${c.h}" class="ci" target="_blank"><div class="cii">${c.i}</div><div><div class="cil">${c.l}</div><div class="civ">${c.v}</div></div></a>`).join('')}
+  ${[{i:'✉️',l:'Email',v:S.email,h:'mailto:'+S.email},S.email2?{i:'🎓',l:'Academic',v:S.email2,h:'mailto:'+S.email2}:0,S.links.scholar?{i:'📚',l:'Google Scholar',v:'Publications',h:S.links.scholar}:0,S.links.orcid?{i:'🆔',l:'ORCID',v:'0000-0001-5030-7826',h:S.links.orcid}:0,S.links.linkedin?{i:'💼',l:'LinkedIn',v:'shivamb1',h:S.links.linkedin}:0,S.links.github?{i:'🧑‍💻',l:'GitHub',v:'shivamsmb',h:S.links.github}:0].filter(Boolean).map(c=>`<a href="${c.h}" class="ci" target="_blank"><div class="cii">${c.i}</div><div><div class="cil">${c.l}</div><div class="civ">${c.v}</div></div></a>`).join('')}
   </div></div>
   <div class="rv"><div class="cf"><h3>Send a Message</h3><form action="https://formspree.io/f/YOUR_FORM_ID" method="POST"><div class="fr"><label>Name</label><input name="name" placeholder="Your name" required/></div><div class="fr"><label>Email</label><input type="email" name="email" placeholder="you@example.com" required/></div><div class="fr"><label>Subject</label><input name="subject" placeholder="Collaboration, opportunity..."/></div><div class="fr"><label>Message</label><textarea name="message" placeholder="Hi Shivam..." required></textarea></div><button class="fbtn" type="submit">Send Message</button></form></div></div></div></section>
 
@@ -488,7 +488,7 @@ function filterP(t,b){document.querySelectorAll('.pf').forEach(x=>x.classList.re
 function doSearch(){
   const q=document.getElementById('si').value.toLowerCase().trim(),r=document.getElementById('sres');
   if(!q){r.innerHTML='';return}
-  const idx=[...S.experience.map(e=>({t:e.role+' — '+e.org,s:'#experience',k:e.role+' '+e.org+' '+e.tags.join(' ')})),...S.education.map(e=>({t:e.degree,s:'#education',k:e.degree+' '+e.school+' '+e.detail})),...S.publications.map(p=>({t:p.title,s:'#publications',k:p.title+' '+p.venue+' '+p.authors})),...S.skills.map(s=>({t:s.title,s:'#skills',k:s.title+' '+s.desc})),{t:'Awards',s:'#awards',k:S.awards.map(a=>a.title).join(' ')},{t:'Personal',s:'#personal',k:S.thoughts.map(t=>t.title).join(' ')},{t:'Photos',s:'#gallery',k:S.photos.map(p=>p.caption).join(' ')},{t:'Videos',s:'#videos',k:S.videos.map(v=>v.title).join(' ')},{t:'Contact',s:'#contact',k:'email phone scholar linkedin'}];
+  const idx=[...S.experience.map(e=>({t:e.role+' — '+e.org,s:'#experience',k:e.role+' '+e.org+' '+e.tags.join(' ')})),...S.education.map(e=>({t:e.degree,s:'#education',k:e.degree+' '+e.school+' '+e.detail})),...S.publications.map(p=>({t:p.title,s:'#publications',k:p.title+' '+p.venue+' '+p.authors})),...S.skills.map(s=>({t:s.title,s:'#skills',k:s.title+' '+s.desc})),{t:'Awards',s:'#awards',k:S.awards.map(a=>a.title).join(' ')},{t:'Personal',s:'#personal',k:S.thoughts.map(t=>t.title).join(' ')},{t:'Photos',s:'#gallery',k:S.photos.map(p=>p.caption).join(' ')},{t:'Videos',s:'#videos',k:S.videos.map(v=>v.title).join(' ')},{t:'Contact',s:'#contact',k:'email scholar linkedin'}];
   const m=idx.filter(i=>(i.t+' '+i.k).toLowerCase().includes(q));
   r.innerHTML=m.length?m.map(i=>`<div class="sri" onclick="toggleSearch();document.querySelector('${i.s}').scrollIntoView({behavior:'smooth'})"><h4>${i.t}</h4><p>${i.s.replace('#','')} →</p></div>`).join(''):'<div class="sri"><p>No results</p></div>';
 }
