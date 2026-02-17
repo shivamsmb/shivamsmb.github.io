@@ -124,10 +124,10 @@ const SITE = {
       "type": "first",
       "title": "Male Bicyclus anynana Butterflies Choose Females on the Basis of Their Ventral UV-Reflective Eyespot Centers",
       "authors": "Huq M, <b>Bhardwaj S</b>, Monteiro A.",
-      "venue": "Journal of Insect Science, 2019;19(5):25",
+      "venue": "Journal of Insect Science, 2019;19(1):25",
       "note": "✦ Featured in Entomology Today",
       "links": [
-        { "label": "DOI", "url": "https://doi.org/10.1093/jisesa/iez078", "cls": "doi" }
+        { "label": "DOI", "url": "https://doi.org/10.1093/jisesa/iez014", "cls": "doi" }
       ]
     },
     {
@@ -150,7 +150,7 @@ const SITE = {
       "venue": "Journal of Insect Science, 2017;17(4):81",
       "note": "",
       "links": [
-        { "label": "DOI", "url": "https://doi.org/10.1093/jisesa/iex055", "cls": "doi" }
+        { "label": "DOI", "url": "https://doi.org/10.1093/jisesa/iex053", "cls": "doi" }
       ]
     },
     {
