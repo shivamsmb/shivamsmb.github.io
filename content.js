@@ -1,5 +1,4 @@
-{
-  const SITE = {
+const SITE = {
   "name": "Shivam Bhardwaj",
   "suffix": "PhD",
   "title": "Functional Genomics Scientist · Operations & Program Manager",
@@ -10,7 +9,7 @@
   "photo": "",
   "cvPdf": "",
 
-  "bio": "Results-driven scientist and leader with <strong>10+ years</strong> of experience across Evolutionary Developmnetal Biology, Genomics, Bioimaging, Lab Operations & Program Management ($5M+ budgets), regulatory compliance (UK/EU/USA). Deep technical background in genomics, high-resolution microscopy, lab automation, molecular biology, and biochemistry.",
+  "bio": "Results-driven scientist and leader with <strong>10+ years</strong> of experience across Evolutionary Developmental Biology, Genomics, Bioimaging, Lab Operations & Program Management ($5M+ budgets), regulatory compliance (UK/EU/USA). Deep technical background in genomics, high-resolution microscopy, lab automation, molecular biology, and biochemistry.",
 
   "links": {
     "scholar": "https://scholar.google.com/citations?user=xsb7hEwYKEsC&hl=en",
@@ -77,13 +76,13 @@
       "degree": "Doctor of Philosophy (Ph.D.), Science",
       "school": "National University of Singapore (NUS)",
       "years": "2013 — 2018",
-      "detail": "Dept. of Biological Sciences. Advisor: Prof. Antónia Monteiro. Thesis title : THE EVOLUTION OF PHENOTYPIC PLASTICITY IN BUTTERFLIES ( wing pattern evolution, phenotypic plasticity, sexual dimorphism and evo-devo questions across 13 species)."
+      "detail": "Dept. of Biological Sciences. Advisor: Prof. Antónia Monteiro. Thesis title: THE EVOLUTION OF PHENOTYPIC PLASTICITY IN BUTTERFLIES (wing pattern evolution, phenotypic plasticity, sexual dimorphism and evo-devo questions across 13 species)."
     },
     {
       "degree": "BS-MS Dual Degree (Integrated)",
       "school": "IISER Mohali, India",
       "years": "2008 — 2013",
-      "detail": "Indian Institute of Science Education and Research. Major : Biology. Minor : Chemistry, Mathematics and Physics. KVPY Fellow (Govt. of India — Top 15 nationally across 50,000+ applicants)."
+      "detail": "Indian Institute of Science Education and Research. Major: Biology. Minor: Chemistry, Mathematics and Physics. KVPY Fellow (Govt. of India — Top 15 nationally across 50,000+ applicants)."
     }
   ],
 
@@ -178,19 +177,19 @@
   ],
 
   "skills": [
-    { "icon": "🧬", "title": "Molecular & Cell Biology", "desc": "PCR, qPCR, Cloning, ChIP-Seq, CRISPR-Cas9, Transgenics (Zebrafish, Butterflies and Moths, Cell Lines ), In situ Hybridization, Immunostaining, Tissue Culture" },
+    { "icon": "🧬", "title": "Molecular & Cell Biology", "desc": "PCR, qPCR, Cloning, ChIP-Seq, CRISPR-Cas9, Transgenics (Zebrafish, Butterflies and Moths, Cell Lines), In situ Hybridization, Immunostaining, Tissue Culture" },
     { "icon": "🔬", "title": "Microscopy & Imaging", "desc": "Confocal Microscopy, Digital Slide Scanning, Fluorescence Microscopy, IMARIS, Keyence" },
     { "icon": "🧪", "title": "Biochemistry & Assays", "desc": "Enzymatic Assays, Protein & Lipid Analysis, High-throughput Screening, DOE" },
-    { "icon": "🧮", "title": "Sequencing & Genomics", "desc": "ABI 3730XL, NGS Data Analysis, RNA Library Construction, RNAseq, Transciptomics, Beckman Coulter NX/FX Automation" },
+    { "icon": "🧮", "title": "Sequencing & Genomics", "desc": "ABI 3730XL, NGS Data Analysis, RNA Library Construction, RNAseq, Transcriptomics, Beckman Coulter NX/FX Automation" },
     { "icon": "💻", "title": "Software & Analysis", "desc": "R, Python, SPSS, GraphPad Prism, FIJI/ImageJ, IMARIS, Mesquite, Adobe Photoshop/Illustrator, PowerBI" },
-    { "icon": "📋", "title": "Operations & Compliance", "desc": "EHS/OSHA, UK/EU/USA Regulatory, SOP Development, LIMS (FreezerPro), Vendor/Contract Mgmt, $5M+ Budgets, Electronic Lab Notebooks" }
+    { "icon": "📋", "title": "Operations & Compliance", "desc": "Certified Biological Safety Advisor (IOSH), Radiation Protection Advisor, EHS/OSHA, UK/EU/USA Regulatory, SOP Development, LIMS (FreezerPro), Vendor/Contract Mgmt, $5M+ Budgets, Electronic Lab Notebooks" }
   ],
 
   "awards": [
     { "title": "KVPY Fellow", "detail": "Govt. of India · Top 15 nationally (2008—2013)" },
     { "title": "Schmidt Futures Fellowship — 100 Most Influential PhD", "detail": "Nominated / Finalist" },
     { "title": "Gold Medal, Academic Excellence", "detail": "IISER Mohali" },
-    { "title": "Tata Crucible Quiz Champion: 2013-2018 ", "detail": "International trivia competition : think Jeopardy / University Challenge" },
+    { "title": "Tata Crucible Quiz Champion: 2013-2018", "detail": "International trivia competition: think Jeopardy / University Challenge" },
     { "title": "King's College London Staff Honors", "detail": "2023 & 2024" },
     { "title": "DBS-Pacific Network Travel Grant", "detail": "NUS, Singapore" },
     { "title": "SGC Summer School", "detail": "Greifswald, Germany, declined due to scheduling conflicts" },
@@ -205,15 +204,8 @@
     {
       "date": "February 2026",
       "title": "Creating an online identity",
-      "body": "We are increasingly living in world where careers are non-linear. Our pace of growth has breached any known moments in human history, which means jobs that were considered safe a decade ago are no longer so. At the same time, new opportunities have risen. In the world of agents, a linkedin identity is not enough to get through recruiters. I have tried to catalog what I have been upto in my life and career. If you land here, drop a message. I would love to know more about you and chat on mutual interests. I remain open to opportunities in scientific researh, lab management, editorial and deep research contracts or a surprising opportunity life brings! 
-        ",
-      "tag": "Travel & Science"
-    },
-    {
-      "date": "January 2026",
-      "title": "Building a PC from Scratch — and What It Taught Me About Lab Equipment",
-      "body": "Tweaking BIOS, overclocking GPUs, troubleshooting hardware. The mindset of building systems carries directly into setting up a research lab.",
-      "tag": "Tinkering"
+      "body": "We are increasingly living in world where careers are non-linear. Our pace of growth has breached any known moments in human history, which means jobs that were considered safe a decade ago are no longer so. At the same time, new opportunities have risen. In the world of agents, a linkedin identity is not enough to get through recruiters. I have tried to catalog what I have been upto in my life and career. If you land here, drop a message. I would love to know more about you and chat on mutual interests. I remain open to opportunities in scientific research, lab management, editorial and deep research contracts or a surprising opportunity life brings!",
+      "tag": "Career"
     },
     {
       "date": "December 2025",
@@ -221,30 +213,19 @@
       "body": "From Singapore hawker centers to Alabama BBQ towns — navigating food across 10+ countries during fieldwork.",
       "tag": "Personal"
     },
-    {
-      "date": "November 2025",
-      "title": "What CRISPR Taught Me About Failure",
-      "body": "Pioneering gene knockout in non-model organisms means months of dead ends. The story behind the paper — and why resilience matters.",
-      "tag": "Research Life"
-    }
   ],
 
   "photos": [
     { "src": "", "caption": "Butterfly Field Research", "emoji": "🦋" },
-    { "src": "", "caption": "Waimea Canyon, Kauai", "emoji": "🏔️" },
     { "src": "", "caption": "Lab at King's College London", "emoji": "🔬" },
-    { "src": "", "caption": "Na Pali Coast", "emoji": "🌊" },
     { "src": "", "caption": "Conference Presentation", "emoji": "🎓" },
-    { "src": "", "caption": "Poipu Beach Sunset", "emoji": "🌅" },
     { "src": "", "caption": "NUS Singapore", "emoji": "🏛️" },
-    { "src": "", "caption": "Custom PC Build", "emoji": "🖥️" },
-    { "src": "", "caption": "Best Veggie Ramen", "emoji": "🍜" }
   ],
 
   "videos": [
     { "id": "", "title": "Science Demo Video", "desc": "Outreach for general audiences" },
     { "id": "", "title": "Butterfly Wing Patterning", "desc": "Conference presentation" },
-    { "id": "", "title": "Lab Setup Timelapse", "desc": "Building Counterman Lab" },
+    { "id": "", "title": "Lab Setup Timelapse", "desc": "Building  Lab" },
     { "id": "", "title": "Field Research Vlog", "desc": "Tropical butterfly fieldwork" }
   ],
   "youtubeChannel": ""
