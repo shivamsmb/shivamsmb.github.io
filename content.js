@@ -1,7 +1,7 @@
 const SITE = {
   "name": "Shivam Bhardwaj",
   "suffix": "PhD",
-  "title": "Life Scientist · Operations & Program Manager",
+  "title": "Functional Genomics Scientist · Operations & Program Manager",
   "location": "San Francisco, CA",
   "workAuth": "H4 EAD — No Sponsorship Required",
   "email": "shivam.lep@gmail.com",
@@ -9,7 +9,7 @@ const SITE = {
   "photo": "",
   "cvPdf": "",
 
-  "bio": "Results-driven scientist and leader with <strong>10+ years</strong> across laboratory management, research infrastructure ($10M+ budgets), genomics, regulatory compliance (UK/EU/USA), and hands-on scientific research. Deep technical background in genomics, high-resolution microscopy, lab automation, molecular biology, and biochemistry.",
+  "bio": "Results-driven scientist and leader with <strong>10+ years</strong> of experience across Evolutionary Developmnetal Biology, Genomics, Bioimaging, Lab Operations & Program Management ($5M+ budgets), regulatory compliance (UK/EU/USA). Deep technical background in genomics, high-resolution microscopy, lab automation, molecular biology, and biochemistry.",
 
   "links": {
     "scholar": "https://scholar.google.com/citations?user=xsb7hEwYKEsC&hl=en",
@@ -20,12 +20,12 @@ const SITE = {
 
   "experience": [
     {
-      "role": "Program / Research Infrastructure Manager",
+      "role": "Program Manager / Research Infrastructure Supplier Manager",
       "org": "King's College London, UK",
       "dept": "Biomedical Engineering & Imaging Sciences",
       "date": "Jul 2024 — Jul 2025",
       "bullets": [
-        "Spearheaded a <strong>$10M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
+        "Spearheaded a <strong>$5M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
         "Developed data-driven procurement strategies using <strong>PowerBI</strong>, optimizing purchasing processes and saving over <strong>$2.2 million</strong> in a single year.",
         "Led cross-functional projects with academics, suppliers, regulatory bodies, and estates teams to deliver complex facility upgrades within tight schedules."
       ],
@@ -45,7 +45,7 @@ const SITE = {
       "tags": ["BSL-2", "EHS/OSHA", "LIMS", "SOPs", "100+ Scientists", "Regulatory"]
     },
     {
-      "role": "Staff Research Scientist, DNA Sequencing Core",
+      "role": "Staff Research Associate II, DNA Sequencing Core",
       "org": "University of California, Berkeley",
       "dept": "",
       "date": "Aug 2021 — Sep 2021",
@@ -76,13 +76,13 @@ const SITE = {
       "degree": "Doctor of Philosophy (Ph.D.), Science",
       "school": "National University of Singapore (NUS)",
       "years": "2013 — 2018",
-      "detail": "Dept. of Biological Sciences. Advisor: Prof. Antónia Monteiro. Thesis on butterfly wing pattern evolution, phenotypic plasticity, and evo-devo genetics across 13 species."
+      "detail": "Dept. of Biological Sciences. Advisor: Prof. Antónia Monteiro. Thesis title : THE EVOLUTION OF PHENOTYPIC PLASTICITY IN BUTTERFLIES ( wing pattern evolution, phenotypic plasticity, sexual dimorphism and evo-devo questions across 13 species)."
     },
     {
       "degree": "BS-MS Dual Degree (Integrated)",
       "school": "IISER Mohali, India",
       "years": "2008 — 2013",
-      "detail": "Indian Institute of Science Education and Research. Mathematics, Physics & Biology. KVPY Fellow (Govt. of India — Top 15 nationally)."
+      "detail": "Indian Institute of Science Education and Research. Major : Biology. Minor : Chemistry, Mathematics and Physics. KVPY Fellow (Govt. of India — Top 15 nationally across 50,000+ applicants)."
     }
   ],
 
@@ -177,23 +177,23 @@ const SITE = {
   ],
 
   "skills": [
-    { "icon": "🧬", "title": "Molecular & Cell Biology", "desc": "PCR, qPCR, Cloning, IP-Seq, CRISPR-Cas9, Transgenics (Zebrafish), In situ Hybridization, Immunostaining, Tissue Culture" },
-    { "icon": "🔬", "title": "Microscopy & Imaging", "desc": "Confocal, Digital Slide Scanning, Fluorescence Microscopy, IMARIS, VOS, Keyence" },
+    { "icon": "🧬", "title": "Molecular & Cell Biology", "desc": "PCR, qPCR, Cloning, ChIP-Seq, CRISPR-Cas9, Transgenics (Zebrafish, Butterflies and Moths, Cell Lines ), In situ Hybridization, Immunostaining, Tissue Culture" },
+    { "icon": "🔬", "title": "Microscopy & Imaging", "desc": "Confocal Microscopy, Digital Slide Scanning, Fluorescence Microscopy, IMARIS, Keyence" },
     { "icon": "🧪", "title": "Biochemistry & Assays", "desc": "Enzymatic Assays, Protein & Lipid Analysis, High-throughput Screening, DOE" },
-    { "icon": "🧮", "title": "Sequencing & Genomics", "desc": "ABI 3730XL, NGS Data Analysis, RNA Library Construction, Beckman Coulter NX/FX Automation" },
+    { "icon": "🧮", "title": "Sequencing & Genomics", "desc": "ABI 3730XL, NGS Data Analysis, RNA Library Construction, RNAseq, Transciptomics, Beckman Coulter NX/FX Automation" },
     { "icon": "💻", "title": "Software & Analysis", "desc": "R, Python, SPSS, GraphPad Prism, FIJI/ImageJ, IMARIS, Mesquite, Adobe Photoshop/Illustrator, PowerBI" },
-    { "icon": "📋", "title": "Operations & Compliance", "desc": "EHS/OSHA, UK/EU/USA Regulatory, SOP Development, LIMS (FreezerPro), Vendor/Contract Mgmt, $10M+ Budgets, ELN" }
+    { "icon": "📋", "title": "Operations & Compliance", "desc": "EHS/OSHA, UK/EU/USA Regulatory, SOP Development, LIMS (FreezerPro), Vendor/Contract Mgmt, $5M+ Budgets, Electronic Lab Notebooks" }
   ],
 
   "awards": [
     { "title": "KVPY Fellow", "detail": "Govt. of India · Top 15 nationally (2008—2013)" },
-    { "title": "Schmidt Futures — 100 Most Influential", "detail": "Nominated / Finalist" },
+    { "title": "Schmidt Futures Fellowship — 100 Most Influential PhD", "detail": "Nominated / Finalist" },
     { "title": "Gold Medal, Academic Excellence", "detail": "IISER Mohali" },
-    { "title": "Tata Crucible Quiz Champion", "detail": "National competition" },
-    { "title": "King's College London Honors", "detail": "2023 & 2024" },
+    { "title": "Tata Crucible Quiz Champion: 2013-2018 ", "detail": "International trivia competition : think Jeopardy / University Challenge" },
+    { "title": "King's College London Staff Honors", "detail": "2023 & 2024" },
     { "title": "DBS-Pacific Network Travel Grant", "detail": "NUS, Singapore" },
-    { "title": "SGC Summer School", "detail": "Greifswald, Germany" },
-    { "title": "Secretary, Students' Society", "detail": "IISER Mohali (2015—2017)" }
+    { "title": "SGC Summer School", "detail": "Greifswald, Germany, declined due to scheduling conflicts" },
+    { "title": "Secretary, DBS Graduate Students' Society", "detail": "NUS (2015—2017)" }
   ],
 
   "talks": "RIKEN CDB, Kobe, Japan · 21st BSGC, Univ. of Malaya, Kuala Lumpur · TLL-NAIST Joint Symposium, Singapore · Spider Symposium · 20th BSGC, Chulalongkorn, Bangkok · Uppsala, Sweden (2016) · CDB Symposium, RIKEN Kobe · NCGAS Workshop, Indiana University",
@@ -203,8 +203,9 @@ const SITE = {
   "thoughts": [
     {
       "date": "February 2026",
-      "title": "From Na Pali to the Bench: Why Exploration Fuels Science",
-      "body": "How hiking Kauai's Na Pali Coast reminded me that the best questions come from observing the natural world — not from behind a screen.",
+      "title": "Creating an online identity",
+      "body": "We are increasingly living in world where careers are non-linear. Our pace of growth has breached any known moments in human history, which means jobs that were considered safe a decade ago are no longer so. At the same time, new opportunities have risen. In the world of agents, a linkedin identity is not enough to get through recruiters. I have tried to catalog what I have been upto in my life and career. If you land here, drop a message. I would love to know more about you and chat on mutual interests. I remain open to opportunities in scientific researh, lab management, editorial and deep research contracts or a surprising opportunity life brings! 
+        ",
       "tag": "Travel & Science"
     },
     {
