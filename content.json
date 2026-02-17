@@ -1,7 +1,7 @@
 {
   "name": "Shivam Bhardwaj",
   "suffix": "PhD",
-  "title": "Life Scientist · Operations & Program Manager",
+  "title": "Evolutionary Biology · Genomics and Bioimaging · Lab Operations & Program Manager",
   "location": "San Francisco, CA",
   "workAuth": "H4 EAD — No Sponsorship Required",
   "email": "shivam.lep@gmail.com",
@@ -9,7 +9,7 @@
   "photo": "",
   "cvPdf": "",
 
-  "bio": "Results-driven scientist and leader with <strong>10+ years</strong> across laboratory management, research infrastructure ($10M+ budgets), genomics, regulatory compliance (UK/EU/USA), and hands-on scientific research. Deep technical background in genomics, high-resolution microscopy, lab automation, molecular biology, and biochemistry.",
+  "bio": "Results-driven scientist and leader with <strong>10+ years</strong> across laboratory management, research infrastructure ($5M+ budgets), genomics, regulatory compliance (UK/EU/USA), and hands-on scientific research. Deep technical background in genomics, high-resolution microscopy, lab automation, molecular biology, cell biology and biochemistry.",
 
   "links": {
     "scholar": "https://scholar.google.com/citations?user=xsb7hEwYKEsC&hl=en",
@@ -20,12 +20,12 @@
 
   "experience": [
     {
-      "role": "Program / Research Infrastructure Manager",
+      "role": "Program / Research Infrastructure Supplier Manager",
       "org": "King's College London, UK",
       "dept": "Biomedical Engineering & Imaging Sciences",
       "date": "Jul 2024 — Jul 2025",
       "bullets": [
-        "Spearheaded a <strong>$10M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
+        "Spearheaded a <strong>$5M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
         "Developed data-driven procurement strategies using <strong>PowerBI</strong>, optimizing purchasing processes and saving over <strong>$2.2 million</strong> in a single year.",
         "Led cross-functional projects with academics, suppliers, regulatory bodies, and estates teams to deliver complex facility upgrades within tight schedules."
       ],
