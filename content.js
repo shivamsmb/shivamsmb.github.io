@@ -25,7 +25,7 @@ const SITE = {
       "dept": "Biomedical Engineering & Imaging Sciences",
       "date": "Jun 2024 — Jul 2025",
       "bullets": [
-        "Spearheaded a <strong>$5M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
+        "Co-led a <strong>$5M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
         "Developed data-driven procurement strategies using <strong>PowerBI</strong>, optimizing purchasing processes and saving over <strong>$2.2 million</strong> in a single year.",
         "Led cross-functional projects with academics, suppliers, regulatory bodies, and estates teams to deliver complex facility upgrades within tight schedules."
       ],
