@@ -19,7 +19,7 @@
     {
       "role": "Program Manager / Research Infrastructure Supplier Manager",
       "org": "King's College London, UK",
-      "dept": "Research Platforms | Management & Innovation Directorate",
+      "dept": "Research Platforms | Research Management & Innovation Directorate (RMID) ",
       "date": "Jun 2024 — Jul 2025",
       "bullets": [
         "Co-led a <strong>$5M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
@@ -49,6 +49,8 @@
         "BSL-2",
         "EHS/OSHA",
         "LIMS",
+        "Lab Management"
+        "Training and induction"
         "SOPs",
         "100+ Scientists",
         "Regulatory"
@@ -92,16 +94,16 @@
   ],
   "education": [
     {
-      "degree": "Doctor of Philosophy (Ph.D.), Science",
+      "degree": "Doctor of Philosophy (Ph.D.), Biological Sciences",
       "school": "National University of Singapore (NUS)",
-      "years": "2013 — 2018",
-      "detail": "Dept. of Biological Sciences. Advisor: Prof. Antónia Monteiro. Thesis title: THE EVOLUTION OF PHENOTYPIC PLASTICITY IN BUTTERFLIES (wing pattern evolution, phenotypic plasticity, sexual dimorphism and evo-devo questions across 13 species)."
+      "years": "2013 — 2018 ",
+      "detail": "Dept. of Biological Sciences. Advisor: Prof. Antónia Monteiro. <br/> Thesis: The Evolution of Phenotypic Plasticity in Butterflies (wing pattern evolution, phenotypic plasticity, sexual dimorphism and evo-devo questions across 13 species)."
     },
     {
       "degree": "BS-MS Dual Degree (Integrated)",
-      "school": "IISER Mohali, India",
-      "years": "2008 — 2013",
-      "detail": "Indian Institute of Science Education and Research, Mohali. Major: Biology. Minor: Chemistry, Mathematics and Physics. MS Thesis: Identification of novel genes for long term memory formation in C. elegans using ChIP sequencing. Advisor: Assoc. Prof. Kavita Babu. KVPY Fellow (Govt. of India — Top 15 nationally across 50,000+ applicants)."
+      "school": "Indian Institute of Science Education and Research (IISER Mohali), India",
+      "years": "2008 — 2013 ",
+      "detail": " Major: Biology. Minor: Chemistry, Mathematics and Physics. <br/> MS Thesis: Identification of novel genes for long term memory formation in C. elegans using ChIP sequencing. Advisor: Prof. Kavita Babu."
     }
   ],
   "publications": [
@@ -295,7 +297,7 @@
     {
       "icon": "📋",
       "title": "Operations & Compliance",
-      "desc": "Certified Biological Safety Advisor (IOSH), Radiation Protection Advisor, EHS/OSHA, UK/EU/USA Regulatory, SOP Development, LIMS (FreezerPro), Vendor/Contract Mgmt, $5M+ Budgets, Electronic Lab Notebooks"
+      "desc": "Certified Biological Safety Advisor (IOSH), Radiation Protection Advisor, EHS/OSHA, UK/EU/USA Regulatory, SOP Development, LIMS (FreezerPro), Vendor and Contract Management, $5M+ Budgets, Electronic Lab Notebooks"
     }
   ],
   "awards": [
@@ -308,7 +310,7 @@
       "detail": "Govt. of India · Top 15 nationally (2008—2013)"
     },
     {
-      "title": "Schmidt Futures Fellowship: Amongst Most Influential PhD",
+      "title": "Schmidt Futures Fellowship: Amongst Most Influential PhDs",
       "detail": "Nominated / Finalist 2018-19 · schmidtsciencefellows.org"
     },
     {
@@ -325,19 +327,19 @@
     },
     {
       "title": "APDBN Travel Grant",
-      "detail": "NUS, Singapore"
+      "detail": "CDB, RIKEN, JAPAN 2016"
     },
     {
-      "title": "Texas Eco Labs 2021, SGC Summer School Travel Award 2017",
-      "detail": "Greifswald, Germany, declined due to scheduling conflicts"
+      "title": "Texas Eco Labs 2021, SGC Summer School (Greifswald, Germany) Travel Award 2017",
+      "detail": "declined due to scheduling conflicts"
     },
     {
       "title": "Secretary, DBS Graduate Students' Society",
       "detail": "NUS (2015—2017)"
     }
   ],
-  "talks": "RIKEN CDB, Kobe, Japan · 21st BSGC, Univ. of Malaya, Kuala Lumpur · TLL-NAIST Joint Symposium, Singapore · Insect Spider Symposium · 20th BSGC, Chulalongkorn, Bangkok · Uppsala, Sweden (2016) · CDB Symposium, RIKEN Kobe · NCGAS Workshop, Indiana University",
-  "outreach": "<strong>YATN (Youths' Attempt to Nurture)</strong> — Healthcare outreach for underprivileged children (2011—2013).<br/>Science demonstration talks and videos for school children, college students and public audiences across Singapore, UK, India and USA.<br/>Organized colloquia and faculty dialogues at NUS.",
+  "talks": "RIKEN CDB Symposium, Kobe, Japan · Euro Evo Devo Uppsala, Sweden · Insect Spider Symposium · 21st BSGC, Univ. of Malaya, Kuala Lumpur · TLL-NAIST Joint Symposium, Singapore · 20th BSGC, Chulalongkorn, Bangkok · NCGAS Workshop, Indiana University",
+  "outreach": "Science demonstration talks and videos for school children, college students and public audiences across Singapore, UK, India and USA.<br/>Organized colloquia and faculty dialogues at NUS.<br/><strong>YATN (Youths' Attempt to Nurture)</strong> — Healthcare outreach for underprivileged children (2011—2013).",
   "thoughts": [
     {
       "date": "February 2026",
