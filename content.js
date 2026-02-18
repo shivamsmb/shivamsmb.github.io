@@ -3,7 +3,7 @@ const SITE = {
   "suffix": "PhD",
   "title": "Functional Genomics Scientist · Operations & Program Manager",
   "location": "San Francisco, CA",
-  "workAuth": "H4 EAD : No Employment Sponsorship Required in USA | Open to global relocation",
+  "workAuth": "No Employment Sponsorship Required | Open to global relocation",
   "email": "shivam.lep@gmail.com",
   "email2": "sb@u.nus.edu",
   "photo": "images/ShivamProfile.jpeg",
@@ -23,7 +23,7 @@ const SITE = {
       "role": "Program Manager / Research Infrastructure Supplier Manager",
       "org": "King's College London, UK",
       "dept": "Biomedical Engineering & Imaging Sciences",
-      "date": "Jul 2024 — Jul 2025",
+      "date": "Jun 2024 — Jul 2025",
       "bullets": [
         "Spearheaded a <strong>$5M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
         "Developed data-driven procurement strategies using <strong>PowerBI</strong>, optimizing purchasing processes and saving over <strong>$2.2 million</strong> in a single year.",
@@ -178,7 +178,7 @@ const SITE = {
   ],
 
   "skills": [
-    { "icon": "🧬", "title": "Molecular & Cell Biology", "desc": "PCR, qPCR, Cloning, ChIP-Seq, CRISPR-Cas9, Transgenics (Zebrafish, Butterflies and Moths, Cell Lines), In situ Hybridization, Immunostaining, Tissue Culture" },
+    { "icon": "🧬", "title": "Molecular & Cell Biology", "desc": "PCR, qPCR, Cloning, ChIP-Seq, CRISPR-Cas9, Transgenics (Zebrafish, Butterflies and Moths, Cell Lines), In situ Hybridization, Immunostaining, Tissue Culture, FACS" },
     { "icon": "🔬", "title": "Microscopy & Imaging", "desc": "Confocal Microscopy, Digital Slide Scanning, Fluorescence Microscopy, IMARIS, Keyence" },
     { "icon": "🧪", "title": "Biochemistry & Assays", "desc": "Enzymatic Assays, Protein & Lipid Analysis, High-throughput Screening, DOE" },
     { "icon": "🧮", "title": "Sequencing & Genomics", "desc": "ABI 3730XL, NGS Data Analysis, RNA Library Construction, RNAseq, Transcriptomics, Beckman Coulter NX/FX Automation" },
@@ -192,12 +192,12 @@ const SITE = {
     { "title": "Academic Excellence Medal", "detail": "IISER Mohali" },
     { "title": "Tata Crucible Quiz Champion: 2013-2018", "detail": "International trivia competition: think Jeopardy / University Challenge" },
     { "title": "King's College London Staff Honors", "detail": "2023 & 2024" },
-    { "title": "DBS-Pacific Network Travel Grant", "detail": "NUS, Singapore" },
-    { "title": "SGC Summer School", "detail": "Greifswald, Germany, declined due to scheduling conflicts" },
+    { "title": "APDBN Travel Grant", "detail": "NUS, Singapore" },
+    { "title": "SGC Summer School Travel Award", "detail": "Greifswald, Germany, declined due to scheduling conflicts" },
     { "title": "Secretary, DBS Graduate Students' Society", "detail": "NUS (2015—2017)" }
   ],
 
-  "talks": "RIKEN CDB, Kobe, Japan · 21st BSGC, Univ. of Malaya, Kuala Lumpur · TLL-NAIST Joint Symposium, Singapore · Insect Spider Symposium · 20th BSGC, Chulalongkorn, Bangkok · Uppsala, Sweden (2016) · CDB Symposium, RIKEN Kobe · NCGAS Workshop, Indiana University",
+  "Invited talks": "RIKEN CDB, Kobe, Japan · 21st BSGC, Univ. of Malaya, Kuala Lumpur · TLL-NAIST Joint Symposium, Singapore · Insect Spider Symposium · 20th BSGC, Chulalongkorn, Bangkok · Uppsala, Sweden (2016) · CDB Symposium, RIKEN Kobe · NCGAS Workshop, Indiana University",
 
   "outreach": "<strong>YATN (Youths' Attempt to Nurture)</strong> — Healthcare outreach for underprivileged children (2011—2013).<br/>Science demonstration talks and videos for school children, college students and public audiences across Singapore, UK, India and USA.<br/>Organized colloquia and faculty dialogues at NUS.",
 
