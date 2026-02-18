@@ -1,4 +1,4 @@
-const SITE = {
+{
   "name": "Shivam Bhardwaj",
   "suffix": "PhD",
   "title": "Functional Genomics Scientist · Operations & Program Manager",
@@ -64,9 +64,9 @@ const SITE = {
       "bullets": [
         "Managed 3 research projects in an <strong>NSF-funded R1</strong> lab, including co-leading design, setup, and launch of the new lab from scratch.",
         "Built foundational protocols and imaging workflow systems.",
-        "Led <strong>CRISPR-Cas9 knockout</strong> protocols in 3 butterfly species; created transcriptomics and bioinformatics pipelines.",
+        "Led <strong>CRISPR-Cas9 knockout</strong> protocols in 3 butterfly species; created transcriptomics and bioinformatics pipelines."
       ],
-      "tags": ["CRISPR-Cas9", "NSF-Funded", "Transcriptomics", "Supercomputing workshop", "Field and Museum Based Research" ]
+      "tags": ["CRISPR-Cas9", "NSF-Funded", "Transcriptomics", "Supercomputing workshop", "Field and Museum Based Research"]
     }
   ],
 
@@ -81,7 +81,7 @@ const SITE = {
       "degree": "BS-MS Dual Degree (Integrated)",
       "school": "IISER Mohali, India",
       "years": "2008 — 2013",
-      "detail": "Indian Institute of Science Education and Research, Mohali. Major: Biology. Minor: Chemistry, Mathematics and Physics. MS Thesis :  Identification of novel genes for long term memory formation in C. elegans using ChIP sequencing. Advisor : Assoc. Prof. Kavita Babu. KVPY Fellow (Govt. of India — Top 15 nationally across 50,000+ applicants)."
+      "detail": "Indian Institute of Science Education and Research, Mohali. Major: Biology. Minor: Chemistry, Mathematics and Physics. MS Thesis: Identification of novel genes for long term memory formation in C. elegans using ChIP sequencing. Advisor: Assoc. Prof. Kavita Babu. KVPY Fellow (Govt. of India — Top 15 nationally across 50,000+ applicants)."
     }
   ],
 
@@ -90,12 +90,13 @@ const SITE = {
       "year": 2021,
       "type": "co",
       "title": "Novel Doublesex Duplication Associated with Sexually Dimorphic Development of Dogface Butterfly Wings",
-      "authors": "Rodriguez-Caro F, Fenner J, <b>Bhardwaj S</b>, Cole J, Benson , Colombara AM, Papa R, Brown MW, Martin A, Range RC, Counterman BA.",
+      "authors": "Rodriguez-Caro F, Fenner J, <b>Bhardwaj S</b>, Cole J, Benson, Colombara AM, Papa R, Brown MW, Martin A, Range RC, Counterman BA.",
       "venue": "Molecular Biology and Evolution",
       "note": "",
-      "links": [ { "label": "DOI", "url": "https://doi.org/10.1093/molbev/msab228", "cls": "doi" },
+      "links": [
+        { "label": "DOI", "url": "https://doi.org/10.1093/molbev/msab228", "cls": "doi" },
         { "label": "PDF", "url": "https://academic.oup.com/mbe/article-pdf/38/11/5021/40936176/msab228.pdf", "cls": "pdf" }
-]
+      ]
     },
     {
       "year": 2020,
@@ -142,7 +143,7 @@ const SITE = {
       "note": "",
       "links": [
         { "label": "DOI", "url": "https://doi.org/10.1093/molbev/msx301", "cls": "doi" },
-        { "label": "PDF", "url": "https://academic.oup.com/mbe/article-pdf/35/2/465/24368305/msx301.pdf", "https://academic.oup.com/mbe/article/40/6/msad127/7190768", "cls": "pdf" }
+        { "label": "PDF", "url": "https://academic.oup.com/mbe/article-pdf/35/2/465/24368305/msx301.pdf", "cls": "pdf" }
       ]
     },
     {
@@ -167,14 +168,13 @@ const SITE = {
       "links": [
         { "label": "DOI", "url": "https://doi.org/10.1016/j.mod.2017.04.274", "cls": "doi" },
         { "label": "PDF", "url": "https://www.sciencedirect.com/science/article/pii/S092547731730357X/pdfft?md5=81c1b9c2b6fd47f061af935af5b7129c&pid=1-s2.0-S092547731730357X-main.pdf", "cls": "pdf" }
-
       ]
     },
     {
       "year": 2015,
       "type": "co",
       "title": "Differential Expression of Ecdysone Receptor Leads to Variation in Phenotypic Plasticity across Serial Homologs",
-      "authors": "Monteiro A, Tong X, Bear A, Liew SF, <b>Bhardwaj S</b>, Wasik BR, Dinwiddie A, Bastianelli C,Cheong WF, Wenk MR, Cao H,Prudic KL.",
+      "authors": "Monteiro A, Tong X, Bear A, Liew SF, <b>Bhardwaj S</b>, Wasik BR, Dinwiddie A, Bastianelli C, Cheong WF, Wenk MR, Cao H, Prudic KL.",
       "venue": "PLoS Genetics, 2015;11(9):e1005529",
       "note": "✦ PLoS Genetics Issue Image",
       "links": [
@@ -196,7 +196,7 @@ const SITE = {
   "awards": [
     { "title": "NUS Research Scholarship", "detail": "Ministry of Education, Singapore 2013-2018" },
     { "title": "KVPY Fellow", "detail": "Govt. of India · Top 15 nationally (2008—2013)" },
-    { "title": "Schmidt Futures Fellowship : Amongst Most Influential PhD : https://schmidtsciencefellows.org/", "detail": "Nominated / Finalist 2018-19" },
+    { "title": "Schmidt Futures Fellowship: Amongst Most Influential PhD", "detail": "Nominated / Finalist 2018-19 · schmidtsciencefellows.org" },
     { "title": "Academic Excellence Medal", "detail": "IISER Mohali 2011" },
     { "title": "Tata Crucible Quiz Champion: 2013-2018", "detail": "International trivia competition: think Jeopardy / University Challenge" },
     { "title": "King's College London Staff Awards", "detail": "Nominated 2023 & 2024" },
@@ -205,7 +205,7 @@ const SITE = {
     { "title": "Secretary, DBS Graduate Students' Society", "detail": "NUS (2015—2017)" }
   ],
 
-  "Invited talks": "RIKEN CDB, Kobe, Japan · 21st BSGC, Univ. of Malaya, Kuala Lumpur · TLL-NAIST Joint Symposium, Singapore · Insect Spider Symposium · 20th BSGC, Chulalongkorn, Bangkok · Uppsala, Sweden (2016) · CDB Symposium, RIKEN Kobe · NCGAS Workshop, Indiana University",
+  "talks": "RIKEN CDB, Kobe, Japan · 21st BSGC, Univ. of Malaya, Kuala Lumpur · TLL-NAIST Joint Symposium, Singapore · Insect Spider Symposium · 20th BSGC, Chulalongkorn, Bangkok · Uppsala, Sweden (2016) · CDB Symposium, RIKEN Kobe · NCGAS Workshop, Indiana University",
 
   "outreach": "<strong>YATN (Youths' Attempt to Nurture)</strong> — Healthcare outreach for underprivileged children (2011—2013).<br/>Science demonstration talks and videos for school children, college students and public audiences across Singapore, UK, India and USA.<br/>Organized colloquia and faculty dialogues at NUS.",
 
@@ -213,17 +213,15 @@ const SITE = {
     {
       "date": "February 2026",
       "title": "Welcome to my corner of the web.",
-      "body": "Our paths aren’t always a straight line, and I think there’s something quite beautiful in that. In a world that moves so quickly, we are all so much more than a job title or a LinkedIn profile. This space is my way of sharing the story behind the work : a collection of <strong> what I’ve learned, what I’ve built, and where I’ve been </strong>. It’s a more personal look at my journey through science and research than a standard resume could ever offer. Let’s connect. If you’ve found your way here, please stay a moment and say hello. I would love to hear your story and chat about our mutual interests. I am currently keeping my heart and mind open to new chapters in scientific research, lab management, and editorial work, as well as the wonderful, unexpected opportunities that life often brings our way.",
+      "body": "Our paths aren't always a straight line, and I think there's something quite beautiful in that. In a world that moves so quickly, we are all so much more than a job title or a LinkedIn profile. This space is my way of sharing the story behind the work: a collection of <strong>what I've learned, what I've built, and where I've been</strong>. It's a more personal look at my journey through science and research than a standard resume could ever offer. Let's connect. If you've found your way here, please stay a moment and say hello. I would love to hear your story and chat about our mutual interests. I am currently keeping my heart and mind open to new chapters in scientific research, lab management, and editorial work, as well as the wonderful, unexpected opportunities that life often brings our way.",
       "tag": "Career"
-    },
+    }
   ],
 
   "photos": [
-    { "src": "", "caption": "NUS Singapore", "emoji": "🏛️" },
+    { "src": "", "caption": "NUS Singapore", "emoji": "🏛️" }
   ],
 
-  "videos": [
-
-  ],
+  "videos": [],
   "youtubeChannel": ""
-};
+}
