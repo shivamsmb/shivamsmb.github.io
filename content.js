@@ -6,7 +6,7 @@ const SITE = {
   "workAuth": "H4 EAD : No Employment Sponsorship Required in USA | Open to global relocation",
   "email": "shivam.lep@gmail.com",
   "email2": "sb@u.nus.edu",
-  "photo": "images/ShivamHS.jpg",
+  "photo": "images/ShivamProfile.jpeg",
   "cvPdf": "",
 
   "bio": "Results-driven scientist and leader with <strong>10+ years</strong> of experience across Evolutionary Developmental Biology, Genomics, Bioimaging, Lab Operations & Program Management ($5M+ budgets), regulatory compliance (UK/EU/USA). Deep technical background in genomics, high-resolution microscopy, lab automation, molecular biology, and biochemistry.",
