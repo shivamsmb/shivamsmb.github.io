@@ -22,7 +22,7 @@ const SITE = {
     {
       "role": "Program Manager / Research Infrastructure Supplier Manager",
       "org": "King's College London, UK",
-      "dept": "Biomedical Engineering & Imaging Sciences",
+      "dept": "Research Platforms | Management & Innovation Directorate",
       "date": "Jun 2024 — Jul 2025",
       "bullets": [
         "Co-led a <strong>$5M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
