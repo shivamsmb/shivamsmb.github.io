@@ -3,7 +3,7 @@ const SITE = {
   "suffix": "PhD",
   "title": "Functional Genomics Scientist · Operations & Program Manager",
   "location": "San Francisco, CA",
-  "workAuth": "No Employment Sponsorship Required",
+  "workAuth": "",
   "email": "shivam.lep@gmail.com",
   "email2": "sb@u.nus.edu",
   "photo": "images/ShivamProfile.jpeg",
@@ -39,8 +39,8 @@ const SITE = {
       "bullets": [
         "Managed daily lab operations for <strong>100+ scientists</strong> across BSL-2 molecular biology, chemistry, tissue culture, histology, and radioisotope labs in a preclinical cancer research center.",
         "Certified <strong>Biological Safety Supervisor</strong> and <strong>Radiation Protection Advisor</strong>; established all EHS programs (Chemical Hygiene Plan, BBP, hazardous waste), ensuring audit-readiness against UK/EU/USA protocols.",
-        "Authored, validated, and implemented SOPs for core facility equipment and complex assays.",
-        "Implemented LIMS (FreezerPro) for <strong>10,000+ tissue and blood samples</strong>, ensuring data integrity and long-term storage."
+        "Authored, validated, and implemented SOPs for core facility equipment and complex assays. Inducted and trained lab users on multiple techniques.",
+        "Implemented LIMS (FreezerPro) for <strong>10,000+ human tissue and blood samples</strong>, ensuring data integrity and long-term storage."
       ],
       "tags": ["BSL-2", "EHS/OSHA", "LIMS", "SOPs", "100+ Scientists", "Regulatory"]
     },
@@ -81,7 +81,7 @@ const SITE = {
       "degree": "BS-MS Dual Degree (Integrated)",
       "school": "IISER Mohali, India",
       "years": "2008 — 2013",
-      "detail": "Indian Institute of Science Education and Research. Major: Biology. Minor: Chemistry, Mathematics and Physics. KVPY Fellow (Govt. of India — Top 15 nationally across 50,000+ applicants)."
+      "detail": "Indian Institute of Science Education and Research, Mohali. Major: Biology. Minor: Chemistry, Mathematics and Physics. MS Thesis :  Identification of novel genes for long term memory formation in C. elegans using ChIP sequencing. Advisor : Assoc. Prof. Kavita Babu. KVPY Fellow (Govt. of India — Top 15 nationally across 50,000+ applicants)."
     }
   ],
 
@@ -90,10 +90,12 @@ const SITE = {
       "year": 2021,
       "type": "co",
       "title": "Novel Doublesex Duplication Associated with Sexually Dimorphic Development of Dogface Butterfly Wings",
-      "authors": "Rodriguez-Caro F, Fenner J, <b>Bhardwaj S</b>, et al.",
+      "authors": "Rodriguez-Caro F, Fenner J, <b>Bhardwaj S</b>, Cole J, Benson , Colombara AM, Papa R, Brown MW, Martin A, Range RC, Counterman BA.",
       "venue": "Molecular Biology and Evolution",
       "note": "",
-      "links": []
+      "links": [ { "label": "DOI", "url": "https://doi.org/10.1093/molbev/msab228", "cls": "doi" },
+        { "label": "PDF", "url": "https://academic.oup.com/mbe/article-pdf/38/11/5021/40936176/msab228.pdf", "cls": "pdf" }
+]
     },
     {
       "year": 2020,
@@ -101,7 +103,7 @@ const SITE = {
       "title": "Origin of the Mechanism of Phenotypic Plasticity in Satyrid Butterfly Eyespots",
       "authors": "<b>Bhardwaj S</b>, Jolander LSH, Wenk MR, Oliver JC, Nijhout HF, Monteiro A.",
       "venue": "eLife, 2020;9:e49544",
-      "note": "✦ Selected as Cover of the Month",
+      "note": "✦ Highlighted as Cover Article of the Month",
       "links": [
         { "label": "DOI", "url": "https://doi.org/10.7554/eLife.49544", "cls": "doi" },
         { "label": "PDF", "url": "https://elifesciences.org/articles/49544", "cls": "pdf" }
@@ -110,12 +112,13 @@ const SITE = {
     {
       "year": 2019,
       "type": "co",
-      "title": "Dissection of Innate Learning and Memory Behavior by creb1/crh-1 in Caenorhabditis elegans",
-      "authors": "Dahiya Y, Rose NR, Thapliyal S, <b>Bhardwaj S</b>, et al.",
+      "title": "Differential Regulation of Innate and Learned Behavior by Creb1/Crh-1 in Caenorhabditis elegans",
+      "authors": "Dahiya Y, Rose NR, Thapliyal S, <b>Bhardwaj S</b>, Prasad M and Babu K",
       "venue": "Journal of Neuroscience, 2019;39(40):7934—7946",
       "note": "",
       "links": [
-        { "label": "DOI", "url": "https://doi.org/10.1523/JNEUROSCI.0006-19.2019", "cls": "doi" }
+        { "label": "DOI", "url": "https://doi.org/10.1523/JNEUROSCI.0006-19.2019", "cls": "doi" },
+        { "label": "PDF", "url": "https://www.jneurosci.org/content/jneuro/39/40/7934.full.pdf", "cls": "pdf" }
       ]
     },
     {
@@ -126,7 +129,8 @@ const SITE = {
       "venue": "Journal of Insect Science, 2019;19(1):25",
       "note": "✦ Featured in Entomology Today",
       "links": [
-        { "label": "DOI", "url": "https://doi.org/10.1093/jisesa/iez014", "cls": "doi" }
+        { "label": "DOI", "url": "https://doi.org/10.1093/jisesa/iez014", "cls": "doi" },
+        { "label": "PDF", "url": "https://academic.oup.com/jinsectscience/article-pdf/19/1/25/27980494/iez014.pdf", "cls": "pdf" }
       ]
     },
     {
@@ -138,7 +142,7 @@ const SITE = {
       "note": "",
       "links": [
         { "label": "DOI", "url": "https://doi.org/10.1093/molbev/msx301", "cls": "doi" },
-        { "label": "PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov/29165628/", "cls": "pdf" }
+        { "label": "PDF", "url": "https://academic.oup.com/mbe/article-pdf/35/2/465/24368305/msx301.pdf", "https://academic.oup.com/mbe/article/40/6/msad127/7190768", "cls": "pdf" }
       ]
     },
     {
@@ -149,7 +153,8 @@ const SITE = {
       "venue": "Journal of Insect Science, 2017;17(4):81",
       "note": "",
       "links": [
-        { "label": "DOI", "url": "https://doi.org/10.1093/jisesa/iex053", "cls": "doi" }
+        { "label": "DOI", "url": "https://doi.org/10.1093/jisesa/iex053", "cls": "doi" },
+        { "label": "PDF", "url": "https://academic.oup.com/jinsectscience/article-pdf/17/4/81/18245766/iex053.pdf", "cls": "pdf" }
       ]
     },
     {
@@ -160,14 +165,16 @@ const SITE = {
       "venue": "Mechanisms of Development, 2017;145:S104—S105",
       "note": "",
       "links": [
-        { "label": "DOI", "url": "https://doi.org/10.1016/j.mod.2017.04.274", "cls": "doi" }
+        { "label": "DOI", "url": "https://doi.org/10.1016/j.mod.2017.04.274", "cls": "doi" },
+        { "label": "PDF", "url": "https://www.sciencedirect.com/science/article/pii/S092547731730357X/pdfft?md5=81c1b9c2b6fd47f061af935af5b7129c&pid=1-s2.0-S092547731730357X-main.pdf", "cls": "pdf" }
+
       ]
     },
     {
       "year": 2015,
       "type": "co",
       "title": "Differential Expression of Ecdysone Receptor Leads to Variation in Phenotypic Plasticity across Serial Homologs",
-      "authors": "Monteiro A, Tong X, Bear A, Liew SF, <b>Bhardwaj S</b>, Wasik BR, et al.",
+      "authors": "Monteiro A, Tong X, Bear A, Liew SF, <b>Bhardwaj S</b>, Wasik BR, Dinwiddie A, Bastianelli C,Cheong WF, Wenk MR, Cao H,Prudic KL.",
       "venue": "PLoS Genetics, 2015;11(9):e1005529",
       "note": "✦ PLoS Genetics Issue Image",
       "links": [
@@ -187,14 +194,14 @@ const SITE = {
   ],
 
   "awards": [
-    { "title": "KVPY Fellow", "detail": "Govt. of India · Top 15 nationally (2008—2013)" },
-    { "title": "Schmidt Futures Fellowship : Amongst Most Influential PhD : https://schmidtsciencefellows.org/selection/how-to-apply/", "detail": "Nominated / Finalist" },
-    { "title": "Academic Excellence Medal", "detail": "IISER Mohali 2011" },
     { "title": "NUS Research Scholarship", "detail": "Ministry of Education, Singapore 2013-2018" },
+    { "title": "KVPY Fellow", "detail": "Govt. of India · Top 15 nationally (2008—2013)" },
+    { "title": "Schmidt Futures Fellowship : Amongst Most Influential PhD : https://schmidtsciencefellows.org/", "detail": "Nominated / Finalist 2018-19" },
+    { "title": "Academic Excellence Medal", "detail": "IISER Mohali 2011" },
     { "title": "Tata Crucible Quiz Champion: 2013-2018", "detail": "International trivia competition: think Jeopardy / University Challenge" },
     { "title": "King's College London Staff Awards", "detail": "Nominated 2023 & 2024" },
     { "title": "APDBN Travel Grant", "detail": "NUS, Singapore" },
-    { "title": "SGC Summer School Travel Award", "detail": "Greifswald, Germany, declined due to scheduling conflicts" },
+    { "title": "Texas Eco Labs 2021, SGC Summer School Travel Award 2017", "detail": "Greifswald, Germany, declined due to scheduling conflicts" },
     { "title": "Secretary, DBS Graduate Students' Society", "detail": "NUS (2015—2017)" }
   ],
 
