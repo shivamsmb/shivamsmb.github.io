@@ -19,7 +19,7 @@
     {
       "role": "Program Manager / Research Infrastructure Supplier Manager",
       "org": "King's College London, UK",
-      "dept": "Research Platforms | Research Management & Innovation Directorate (RMID) ",
+      "dept": "Research Platforms | Research Management & Innovation Directorate (RMID)",
       "date": "Jun 2024 — Jul 2025",
       "bullets": [
         "Co-led a <strong>$5M+ annual</strong> research infrastructure fund, overseeing strategic planning, contract management, and procurement of all scientific equipment and services.",
@@ -49,8 +49,8 @@
         "BSL-2",
         "EHS/OSHA",
         "LIMS",
-        "Lab Management"
-        "Training and induction"
+        "Lab Management",
+        "Training and induction",
         "SOPs",
         "100+ Scientists",
         "Regulatory"
@@ -96,14 +96,14 @@
     {
       "degree": "Doctor of Philosophy (Ph.D.), Biological Sciences",
       "school": "National University of Singapore (NUS)",
-      "years": "2013 — 2018 ",
+      "years": "2013 — 2018",
       "detail": "Dept. of Biological Sciences. Advisor: Prof. Antónia Monteiro. <br/> Thesis: The Evolution of Phenotypic Plasticity in Butterflies (wing pattern evolution, phenotypic plasticity, sexual dimorphism and evo-devo questions across 13 species)."
     },
     {
       "degree": "BS-MS Dual Degree (Integrated)",
       "school": "Indian Institute of Science Education and Research (IISER Mohali), India",
-      "years": "2008 — 2013 ",
-      "detail": " Major: Biology. Minor: Chemistry, Mathematics and Physics. <br/> MS Thesis: Identification of novel genes for long term memory formation in C. elegans using ChIP sequencing. Advisor: Prof. Kavita Babu."
+      "years": "2008 — 2013",
+      "detail": "Major: Biology. Minor: Chemistry, Mathematics and Physics. <br/> MS Thesis: Identification of novel genes for long term memory formation in C. elegans using ChIP sequencing. Advisor: Prof. Kavita Babu."
     }
   ],
   "publications": [
