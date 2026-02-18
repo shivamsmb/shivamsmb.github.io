@@ -203,15 +203,9 @@ const SITE = {
   "thoughts": [
     {
       "date": "February 2026",
-      "title": "Creating an online identity",
-      "body": "We are increasingly living in world where careers are non-linear. Our pace of growth has breached any known moments in human history, which means jobs that were considered safe a decade ago are no longer so. At the same time, new opportunities have risen. In the world of agents, a linkedin identity is not enough to get through recruiters. I have tried to catalog what I have been upto in my life and career. If you land here, drop a message. I would love to know more about you and chat on mutual interests. I remain open to opportunities in scientific research, lab management, editorial and deep research contracts or a surprising opportunity life brings!",
+      "title": "Welcome to my corner of the web.",
+      "body": "Our paths aren’t always a straight line anymore, and I think there’s something quite beautiful in that. In a world that moves so quickly, we are all so much more than a job title or a LinkedIn profile. This space is my way of sharing the story behind the work—a collection of what I’ve learned, what I’ve built, and where I’ve been. It’s a more personal look at my journey through science and research than a standard resume could ever offer. Let’s connect. If you’ve found your way here, please stay a moment and say hello. I would love to hear your story and chat about our mutual interests. I am currently keeping my heart and mind open to new chapters in scientific research, lab management, and editorial work, as well as the wonderful, unexpected opportunities that life often brings our way.",
       "tag": "Career"
-    },
-    {
-      "date": "December 2025",
-      "title": "Vegetarian in the Field: Eating Well on Research Trips",
-      "body": "From Singapore hawker centers to Alabama BBQ towns — navigating food across 10+ countries during fieldwork.",
-      "tag": "Personal"
     },
   ],
 
