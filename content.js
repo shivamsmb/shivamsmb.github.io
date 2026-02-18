@@ -3,7 +3,7 @@ const SITE = {
   "suffix": "PhD",
   "title": "Functional Genomics Scientist · Operations & Program Manager",
   "location": "San Francisco, CA",
-  "workAuth": "No Employment Sponsorship Required | Open to global relocation",
+  "workAuth": "No Employment Sponsorship Required",
   "email": "shivam.lep@gmail.com",
   "email2": "sb@u.nus.edu",
   "photo": "images/ShivamProfile.jpeg",
