@@ -3,7 +3,7 @@ const SITE = {
   "suffix": "PhD",
   "title": "Functional Genomics Scientist · Operations & Program Manager",
   "location": "San Francisco, CA",
-  "workAuth": "H4 EAD — No Sponsorship Required",
+  "workAuth": "H4 EAD : No Employment Sponsorship Required in USA | Open to global relocation for right opportunity",
   "email": "shivam.lep@gmail.com",
   "email2": "sb@u.nus.edu",
   "photo": "images/ShivamHS.jpg",
@@ -62,12 +62,11 @@ const SITE = {
       "dept": "",
       "date": "Dec 2018 — Jul 2021",
       "bullets": [
-        "Managed all daily operations for an <strong>NSF-funded R1</strong> lab, including co-leading design, setup, and launch of the new lab from scratch.",
-        "Led procurement, installation, and validation of all equipment; built foundational inventory, chemical safety, and workflow systems.",
-        "Pioneered <strong>CRISPR-Cas9 knockout</strong> protocols in 3 butterfly species; conducted transcriptomics and bioinformatics pipelines.",
-        "Published <strong>4 first-author</strong> peer-reviewed papers with global collaborators across Asia and Europe."
+        "Managed 3 research projects in an <strong>NSF-funded R1</strong> lab, including co-leading design, setup, and launch of the new lab from scratch.",
+        "Built foundational protocols and imaging workflow systems.",
+        "Led <strong>CRISPR-Cas9 knockout</strong> protocols in 3 butterfly species; conducted transcriptomics and bioinformatics pipelines.",
       ],
-      "tags": ["CRISPR-Cas9", "NSF-Funded", "Transcriptomics", "Lab Setup", "4 First-Author Pubs"]
+      "tags": ["CRISPR-Cas9", "NSF-Funded", "Transcriptomics", "Lab Setup", "Field and Museum Based Research" ]
     }
   ],
 
