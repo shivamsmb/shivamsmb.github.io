@@ -6,7 +6,7 @@ const SITE = {
   "workAuth": "H4 EAD — No Sponsorship Required",
   "email": "shivam.lep@gmail.com",
   "email2": "sb@u.nus.edu",
-  "photo": "",
+  "photo": "images/ShivamHS.jpg",
   "cvPdf": "",
 
   "bio": "Results-driven scientist and leader with <strong>10+ years</strong> of experience across Evolutionary Developmental Biology, Genomics, Bioimaging, Lab Operations & Program Management ($5M+ budgets), regulatory compliance (UK/EU/USA). Deep technical background in genomics, high-resolution microscopy, lab automation, molecular biology, and biochemistry.",
@@ -160,7 +160,9 @@ const SITE = {
       "authors": "<b>Bhardwaj S</b>, Monteiro A.",
       "venue": "Mechanisms of Development, 2017;145:S104—S105",
       "note": "",
-      "links": []
+      "links": [
+        { "label": "DOI", "url": "https://doi.org/10.1016/j.mod.2017.04.274", "cls": "doi" }
+      ]
     },
     {
       "year": 2015,
@@ -196,7 +198,7 @@ const SITE = {
     { "title": "Secretary, DBS Graduate Students' Society", "detail": "NUS (2015—2017)" }
   ],
 
-  "talks": "RIKEN CDB, Kobe, Japan · 21st BSGC, Univ. of Malaya, Kuala Lumpur · TLL-NAIST Joint Symposium, Singapore · Spider Symposium · 20th BSGC, Chulalongkorn, Bangkok · Uppsala, Sweden (2016) · CDB Symposium, RIKEN Kobe · NCGAS Workshop, Indiana University",
+  "talks": "RIKEN CDB, Kobe, Japan · 21st BSGC, Univ. of Malaya, Kuala Lumpur · TLL-NAIST Joint Symposium, Singapore · Insect Spider Symposium · 20th BSGC, Chulalongkorn, Bangkok · Uppsala, Sweden (2016) · CDB Symposium, RIKEN Kobe · NCGAS Workshop, Indiana University",
 
   "outreach": "<strong>YATN (Youths' Attempt to Nurture)</strong> — Healthcare outreach for underprivileged children (2011—present).<br/>Science demonstration videos for public audiences.<br/>Organized colloquia and faculty dialogues at IISER Mohali & NUS.",
 
