@@ -188,7 +188,7 @@ const SITE = {
 
   "awards": [
     { "title": "KVPY Fellow", "detail": "Govt. of India · Top 15 nationally (2008—2013)" },
-    { "title": "Schmidt Futures Fellowship — 100 Most Influential PhD : https://schmidtsciencefellows.org/selection/how-to-apply/", "detail": "Nominated / Finalist" },
+    { "title": "Schmidt Futures Fellowship : Amongst Most Influential PhD : https://schmidtsciencefellows.org/selection/how-to-apply/", "detail": "Nominated / Finalist" },
     { "title": "Academic Excellence Medal", "detail": "IISER Mohali" },
     { "title": "Tata Crucible Quiz Champion: 2013-2018", "detail": "International trivia competition: think Jeopardy / University Challenge" },
     { "title": "King's College London Staff Honors", "detail": "2023 & 2024" },
@@ -205,7 +205,7 @@ const SITE = {
     {
       "date": "February 2026",
       "title": "Welcome to my corner of the web.",
-      "body": "Our paths aren’t always a straight line, and I think there’s something quite beautiful in that. In a world that moves so quickly, we are all so much more than a job title or a LinkedIn profile. This space is my way of sharing the story behind the work—a collection of what I’ve learned, what I’ve built, and where I’ve been. It’s a more personal look at my journey through science and research than a standard resume could ever offer. Let’s connect. If you’ve found your way here, please stay a moment and say hello. I would love to hear your story and chat about our mutual interests. I am currently keeping my heart and mind open to new chapters in scientific research, lab management, and editorial work, as well as the wonderful, unexpected opportunities that life often brings our way.",
+      "body": "Our paths aren’t always a straight line, and I think there’s something quite beautiful in that. In a world that moves so quickly, we are all so much more than a job title or a LinkedIn profile. This space is my way of sharing the story behind the work : a collection of <strong> what I’ve learned, what I’ve built, and where I’ve been </strong>. It’s a more personal look at my journey through science and research than a standard resume could ever offer. Let’s connect. If you’ve found your way here, please stay a moment and say hello. I would love to hear your story and chat about our mutual interests. I am currently keeping my heart and mind open to new chapters in scientific research, lab management, and editorial work, as well as the wonderful, unexpected opportunities that life often brings our way.",
       "tag": "Career"
     },
   ],
