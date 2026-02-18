@@ -64,9 +64,9 @@ const SITE = {
       "bullets": [
         "Managed 3 research projects in an <strong>NSF-funded R1</strong> lab, including co-leading design, setup, and launch of the new lab from scratch.",
         "Built foundational protocols and imaging workflow systems.",
-        "Led <strong>CRISPR-Cas9 knockout</strong> protocols in 3 butterfly species; conducted transcriptomics and bioinformatics pipelines.",
+        "Led <strong>CRISPR-Cas9 knockout</strong> protocols in 3 butterfly species; created transcriptomics and bioinformatics pipelines.",
       ],
-      "tags": ["CRISPR-Cas9", "NSF-Funded", "Transcriptomics", "Lab Setup", "Field and Museum Based Research" ]
+      "tags": ["CRISPR-Cas9", "NSF-Funded", "Transcriptomics", "Supercomputing workshop", "Field and Museum Based Research" ]
     }
   ],
 
@@ -189,9 +189,10 @@ const SITE = {
   "awards": [
     { "title": "KVPY Fellow", "detail": "Govt. of India · Top 15 nationally (2008—2013)" },
     { "title": "Schmidt Futures Fellowship : Amongst Most Influential PhD : https://schmidtsciencefellows.org/selection/how-to-apply/", "detail": "Nominated / Finalist" },
-    { "title": "Academic Excellence Medal", "detail": "IISER Mohali" },
+    { "title": "Academic Excellence Medal", "detail": "IISER Mohali 2011" },
+    { "title": "NUS Research Scholarship", "detail": "Ministry of Education, Singapore 2013-2018" },
     { "title": "Tata Crucible Quiz Champion: 2013-2018", "detail": "International trivia competition: think Jeopardy / University Challenge" },
-    { "title": "King's College London Staff Honors", "detail": "2023 & 2024" },
+    { "title": "King's College London Staff Awards", "detail": "Nominated 2023 & 2024" },
     { "title": "APDBN Travel Grant", "detail": "NUS, Singapore" },
     { "title": "SGC Summer School Travel Award", "detail": "Greifswald, Germany, declined due to scheduling conflicts" },
     { "title": "Secretary, DBS Graduate Students' Society", "detail": "NUS (2015—2017)" }
@@ -215,10 +216,7 @@ const SITE = {
   ],
 
   "videos": [
-    { "id": "", "title": "Science Demo Video", "desc": "Outreach for general audiences" },
-    { "id": "", "title": "Butterfly Wing Patterning", "desc": "Conference presentation" },
-    { "id": "", "title": "Lab Setup Timelapse", "desc": "Building  Lab" },
-    { "id": "", "title": "Field Research Vlog", "desc": "Tropical butterfly fieldwork" }
+
   ],
   "youtubeChannel": ""
 };
