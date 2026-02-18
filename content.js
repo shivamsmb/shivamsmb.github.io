@@ -211,9 +211,6 @@ const SITE = {
   ],
 
   "photos": [
-    { "src": "", "caption": "Butterfly Field Research", "emoji": "🦋" },
-    { "src": "", "caption": "Lab at King's College London", "emoji": "🔬" },
-    { "src": "", "caption": "Conference Presentation", "emoji": "🎓" },
     { "src": "", "caption": "NUS Singapore", "emoji": "🏛️" },
   ],
 
