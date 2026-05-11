@@ -40,7 +40,7 @@
         "Authored high-complexity SFT datasets — adversarial prompts and multi-step reasoning problems with verified ground-truth solutions.",
         "Consistently exceeded benchmarks on accuracy and volume in large-scale data labeling for LLM training pipelines."
       ],
-      "tags": ["AI × Bio", "SFT Datasets", "LLM Training", Life Sciences AI","Reasoning Datasets" ]
+      "tags": ["AI × Bio", "SFT Datasets", "LLM Training", "Life Sciences AI", "Reasoning Datasets" ]
     },
     {
       "role": "Program Manager / Research Infrastructure Supplier Manager",
