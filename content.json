@@ -19,17 +19,16 @@
   },
   "experience": [
     {
-      "role": "Consultant Lead Scientist",
+      "role": "Lead Scientist (Consultant)",
       "org": "Exonic (YC F25)",
       "dept": "AI-driven Gene Therapy Startup · San Francisco",
       "date": "Mar 2026 — Apr 2026",
       "bullets": [
-        "Sole bench scientist at an AI-driven gene therapy startup.Built high-throughput cloning, quantitative assay development, and cell line infrastructure from the ground up.",
-        "Identified and characterized tissue-selective activity for top-performing CRE constructs across CNS and muscle lineages.",
-        ",
-        "Designed a two-wave <strong>massively parallel reporter assay (MPRA)</strong> pipeline to validate AI-generated synthetic enhancer constructs across human and mouse cell lines.",
+        "Lead bench scientist at an AI-driven gene therapy startup. Built high-throughput cloning, quantitative assay development, and cell line infrastructure from the ground up.",
+        "Identified and characterized tissue-selective activity for top-performing CRE constructs across 17 CNS and muscle lineages.",
+        "Designed a two-wave <strong>massively parallel reporter assay (MPRA)</strong> pipeline to validate AI-generated synthetic enhancer constructs across human and mouse cell lines."
       ],
-      "tags": ["MPRA", "Synthetic Enhancers", "Mammalian Cell Lines", "AI × Bio"]
+      "tags": ["MPRA", "Synthetic Enhancers", "Mammalian Cell Lines", "Functional validation", "AI × Bio"]
     },
     {
       "role": "Subject Matter Expert (Contractor) — AI Consultant",
@@ -41,7 +40,7 @@
         "Authored high-complexity SFT datasets — adversarial prompts and multi-step reasoning problems with verified ground-truth solutions.",
         "Consistently exceeded benchmarks on accuracy and volume in large-scale data labeling for LLM training pipelines."
       ],
-      "tags": ["AI × Bio", "SFT Datasets", "LLM Training"]
+      "tags": ["AI × Bio", "SFT Datasets", "LLM Training", Life Sciences AI","Reasoning Datasets" ]
     },
     {
       "role": "Program Manager / Research Infrastructure Supplier Manager",
