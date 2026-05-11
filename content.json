@@ -1,15 +1,16 @@
 {
   "name": "Shivam Bhardwaj",
   "suffix": "PhD",
-  "title": "Functional Genomics Scientist · Operations & Program Manager",
+  "title": "I build and run wet labs at biotech startups.",
   "location": "San Francisco, CA",
   "workAuth": "",
   "email": "shivam.lep@gmail.com",
   "email2": "sb@u.nus.edu",
   "photo": "images/ShivamProfile.jpeg",
-"cvPdf": "files/Resume_ShivamB.pdf",
-"cvAcademic": "files/CV_Academic_ShivamB.pdf",
-  "bio": "Results-driven scientist and leader with <strong>10+ years</strong> of experience across Evolutionary Developmental Biology, Genomics, Bioimaging, Lab Operations & Program Management ($5M+ budgets), regulatory compliance (UK/EU/USA). Deep technical background in genomics, high-resolution microscopy, lab automation, molecular biology, and biochemistry.",
+  "cvPdf": "files/Resume_ShivamB.pdf",
+  "cvAcademic": "files/CV_Academic_ShivamB.pdf",
+  "badge": "Available — San Francisco",
+  "bio": "Molecular biologist with 10+ years from PhD-level bench work to running BSL-2 facilities for 100+ scientists. Most recently sole bench scientist at <strong>Exonic (YC)</strong>, an AI-driven gene therapy startup, where I designed and ran a two-wave MPRA pipeline to validate AI-generated synthetic enhancer constructs across human and mouse cell lines.<br/><br/>I'm at my best at the seed-to-Series-A stage — where the same person needs to design the experiments, build the lab, write the SOPs, and call the vendors. Currently looking for the right <strong>founding scientist, scientific lead, or cofounder role</strong> at an early-stage biotech in the Bay Area.",
   "links": {
     "scholar": "https://scholar.google.com/citations?user=xsb7hEwYKEsC&hl=en",
     "linkedin": "https://linkedin.com/in/shivamb1",
@@ -17,6 +18,33 @@
     "github": "https://github.com/shivamsmb"
   },
   "experience": [
+    {
+      "role": "Consultant Lead Scientist",
+      "org": "Exonic (YC)",
+      "dept": "AI-driven Gene Therapy Startup · San Francisco",
+      "date": "Mar 2026 — Apr 2026",
+      "bullets": [
+        "Sole bench scientist at an AI-driven gene therapy startup.",
+        "Designed a two-wave <strong>massively parallel reporter assay (MPRA)</strong> pipeline to validate AI-generated synthetic enhancer constructs across human and mouse cell lines.",
+        "Built high-throughput cloning, quantitative assay development, and cell line infrastructure from the ground up.",
+        "Identified and characterized tissue-selective activity for top-performing CRE constructs across CNS and muscle lineages.",
+        "Findings directly informed AI model retraining at the partner organization."
+      ],
+      "tags": ["MPRA", "Synthetic Enhancers", "Mammalian Cell Lines", "AI × Bio", "YC Startup"]
+    },
+    {
+      "role": "Subject Matter Expert (Contractor) — AI Consultant",
+      "org": "Mercor Intelligence",
+      "dept": "San Francisco",
+      "date": "Jan 2026 — Present",
+      "bullets": [
+        "Part-time contract work alongside the search for a founding scientist or cofounder role.",
+        "Partnered with a top AI research lab to advance model reasoning within life sciences and specialized research domains.",
+        "Authored high-complexity SFT datasets — adversarial prompts and multi-step reasoning problems with verified ground-truth solutions.",
+        "Consistently exceeded benchmarks on accuracy and volume in large-scale data labeling for LLM training pipelines."
+      ],
+      "tags": ["AI × Bio", "SFT Datasets", "LLM Training"]
+    },
     {
       "role": "Program Manager / Research Infrastructure Supplier Manager",
       "org": "King's College London, UK",

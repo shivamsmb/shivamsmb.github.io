@@ -4,14 +4,15 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <title>Shivam Bhardwaj, PhD</title>
-<meta name="description" content="Shivam Bhardwaj, PhD — Functional Genomics Scientist and Program Manager. 10+ years in laboratory management, genomics, research infrastructure."/>
+<meta name="description" content="Shivam Bhardwaj, PhD — molecular biologist building and running wet labs at biotech startups. Most recently at Exonic (YC). Available for founding scientist, scientific lead, and cofounder roles in the Bay Area."/>
 <meta name="author" content="Shivam Bhardwaj"/>
 <meta name="robots" content="index,follow"/>
 <link rel="canonical" href="https://shivamsmb.github.io"/>
 <meta property="og:type" content="profile"/>
 <meta property="og:title" content="Shivam Bhardwaj, PhD"/>
 <meta property="og:url" content="https://shivamsmb.github.io"/>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Shivam Bhardwaj","honorificSuffix":"PhD","url":"https://shivamsmb.github.io","jobTitle":"Functional Genomics Scientist","address":{"@type":"PostalAddress","addressLocality":"San Francisco","addressRegion":"CA","addressCountry":"US"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"National University of Singapore"},{"@type":"CollegeOrUniversity","name":"IISER Mohali"}],"sameAs":["https://linkedin.com/in/shivamb1","https://scholar.google.com/citations?user=xsb7hEwYKEsC&hl=en"]}</script>
+<meta property="og:description" content="Molecular biologist building and running wet labs at biotech startups. Most recently at Exonic (YC). Available for founding scientist, scientific lead, and cofounder roles in the Bay Area."/>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Shivam Bhardwaj","honorificSuffix":"PhD","url":"https://shivamsmb.github.io","jobTitle":"Molecular Biologist, Founding Scientist","address":{"@type":"PostalAddress","addressLocality":"San Francisco","addressRegion":"CA","addressCountry":"US"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"National University of Singapore"},{"@type":"CollegeOrUniversity","name":"IISER Mohali"}],"sameAs":["https://linkedin.com/in/shivamb1","https://scholar.google.com/citations?user=xsb7hEwYKEsC&hl=en"]}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Outfit:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -41,8 +42,8 @@ var photo=S.photo?'<img src="'+S.photo+'" alt="'+S.name+'"/>':'<div class="ph">&
 var cv=S.cvPdf?'<a href="'+S.cvPdf+'" class="hl o" target="_blank">Industry Resume</a>':'';
 var cvA=S.cvAcademic?'<a href="'+S.cvAcademic+'" class="hl o" target="_blank">Academic CV</a>':'';
 var scholar=L.scholar||'',linkedin=L.linkedin||'';
-var badge=S.workAuth?'Open to Opportunities \u2014 '+S.workAuth:'Open to Opportunities';
-var loc=S.location+(S.workAuth?' | '+S.workAuth:'');
+var badge=S.badge||'Open to Opportunities';
+var loc=S.location;
 var contacts=[];
 if(S.email)contacts.push({i:'&#9993;',l:'Email',v:S.email,h:'mailto:'+S.email});
 if(S.email2)contacts.push({i:'&#127891;',l:'Academic Email',v:S.email2,h:'mailto:'+S.email2});
@@ -50,8 +51,8 @@ if(scholar)contacts.push({i:'&#128218;',l:'Google Scholar',v:'Publications',h:sc
 if(L.orcid)contacts.push({i:'&#128196;',l:'ORCID',v:'Profile',h:L.orcid});
 if(linkedin)contacts.push({i:'&#128188;',l:'LinkedIn',v:'Profile',h:linkedin});
 if(L.github)contacts.push({i:'&#128187;',l:'GitHub',v:'Profile',h:L.github});
-var hasPhotos=(S.photos||[]).some(function(p){return p.src});
-var realVids=(S.videos||[]).filter(function(v){return v.id});
+var hasPhotos=(S.photos||[]).some(function(p){return p.src;});
+var realVids=(S.videos||[]).filter(function(v){return v.id;});
 var sections=['experience','education','publications','skills','personal','contact'];
 if(hasPhotos)sections.splice(5,0,'gallery');
 if(realVids.length)sections.splice(sections.indexOf('contact'),0,'videos');
@@ -67,11 +68,12 @@ h+='<div class="hsub">'+S.title+'</div>';
 h+='<div class="hbio">'+S.bio+'</div>';
 h+='<div class="hauth">'+loc+'</div>';
 h+='<div class="hlinks">';
-h+='<a href="#experience" class="hl p">View Experience</a>';
-h+='<a href="#publications" class="hl o">Publications</a>';
-if(scholar)h+='<a href="'+scholar+'" class="hl o" target="_blank">Google Scholar</a>';
+h+='<a href="#publications" class="hl p">Publications</a>';
+h+='<a href="#experience" class="hl o">Experience</a>';
+h+=cv;
 if(linkedin)h+='<a href="'+linkedin+'" class="hl o" target="_blank">LinkedIn</a>';
-h+=cv+cvA;
+if(scholar)h+='<a href="'+scholar+'" class="hl o" target="_blank">Google Scholar</a>';
+h+=cvA;
 h+='</div>';
 h+='</div><div class="hp"><div class="hpf">'+photo+'</div><div class="haff">'+S.email+'</div></div></header>';
 h+='<div class="dv"><hr/></div><section class="sec" id="experience"><p class="sl rv">Professional Experience</p><h2 class="st rv">Career Journey</h2><p class="sd rv">10+ years leading scientific operations, research programs, and cross-functional teams.</p>';
